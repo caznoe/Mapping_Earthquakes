@@ -1,5 +1,13 @@
-# Mapping_Earthquakes
+# Mapping Earthquakes
 
-Created this the Earthquake map for a challenge for Data Analytics Bootcamp. Map uses Java Script, HTML, API calls and Mapbox to display all earthquakes from the past 7 days and tectonic plate outlines. Image of map below.
+Used the Mapbox API to create a map and added GeoJSON data from the USGS Summary Feed to display the recent earthquake data. Used HTML and JavaScript to display the map as a local hosted site. Created another layer on the map to display the borders of the tectonic plates using Polygon GeoJSON data. Image of display map below. Project for UC Berkeley Data Analytics Boot Camp.
 
+#### Recent Earthquake Map
 ![Earthquake Map](Earthquake_map.png)
+
+### Tech Used
+- JSON (GeoJSON)
+- JavaScript
+- HTML
+- Mapbox
+
